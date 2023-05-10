@@ -1,0 +1,15 @@
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\bin\Debug\net6.0\Practical-1.exe
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\bin\Debug\net6.0\Practical-1.deps.json
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\bin\Debug\net6.0\Practical-1.runtimeconfig.json
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\bin\Debug\net6.0\Practical-1.dll
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\bin\Debug\net6.0\Practical-1.pdb
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.csproj.AssemblyReference.cache
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.AssemblyInfoInputs.cache
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.AssemblyInfo.cs
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.csproj.CoreCompileInputs.cache
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.dll
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\refint\Practical-1.dll
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.pdb
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\Practical-1.genruntimeconfig.cache
+E:\Simform_Internship\C-Sharp\Practicals\Practical-1\Practical-1\obj\Debug\net6.0\ref\Practical-1.dll
